@@ -1,0 +1,12 @@
+{
+  "name": "devops_ci_23cse123",
+  "version": "1.0.0",
+  "description": "DevOps Git GitHub Jenkins CI Assignment",
+  "main": "src/app.js",
+  "scripts": {
+    "test": "node tests/app.test.js",
+    "build": "node -e \"console.log('Build successful')\""
+  },
+  "author": "",
+  "license": "ISC"
+}
