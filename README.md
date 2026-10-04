@@ -19,3 +19,5 @@ Jenkins Continuous Integration.
 - Subtraction
 - Automated testing
 - Jenkins CI pipeline
+## CI Status
+This project uses Jenkins for automated build and testing.
